@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [King David](https://github.com/daking24)
+ - Place: Plateau State, Nigeria
+ - Bio: Computer Science Student, University of Jos.
+ - GitHub: [Daking24](https://github.com/daking24)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
